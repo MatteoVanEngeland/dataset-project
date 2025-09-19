@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Ahri",
+    "description": "Ahri is een vosachtige magiër uit Ionia die haar charme en magie gebruikt om haar vijanden te verleiden en vernietigen.",
+    "powerLevel": 88,
+    "isHuman": false,
+    "releaseDate": "2011-12-14",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_0.jpg",
+    "role": "mage",
+    "abilities": ["Orb of Deception", "Fox-Fire", "Charm", "Spirit Rush"],
+    "factionId": 101
+  },
+  {
+    "id": 2,
+    "name": "Garen",
+    "description": "Garen is een Demaciaanse krijger die de kracht van gerechtigheid en loyaliteit belichaamt.",
+    "powerLevel": 76,
+    "isHuman": true,
+    "releaseDate": "2010-04-27",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_0.jpg",
+    "role": "fighter",
+    "abilities": ["Decisive Strike", "Courage", "Judgment", "Demacian Justice"],
+    "factionId": 102
+  },
+  {
+    "id": 3,
+    "name": "Darius",
+    "description": "Darius, de Hand van Noxus, is een genadeloze generaal die zijn vijanden met brute kracht verplettert.",
+    "powerLevel": 92,
+    "isHuman": true,
+    "releaseDate": "2012-05-23",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_0.jpg",
+    "role": "fighter",
+    "abilities": ["Decimate", "Crippling Strike", "Apprehend", "Noxian Guillotine"],
+    "factionId": 103
+  },
+  {
+    "id": 4,
+    "name": "Ashe",
+    "description": "Ashe, de Iceborn boogschutter, leidt de stammen van de Freljord met ijzige precisie.",
+    "powerLevel": 80,
+    "isHuman": true,
+    "releaseDate": "2009-02-21",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_0.jpg",
+    "role": "marksman",
+    "abilities": ["Ranger's Focus", "Volley", "Hawkshot", "Enchanted Crystal Arrow"],
+    "factionId": 104
+  },
+  {
+    "id": 5,
+    "name": "Ekko",
+    "description": "Ekko, het wonderkind van Zaun, gebruikt tijdsmanipulatie om fouten terug te draaien en kansen te grijpen.",
+    "powerLevel": 85,
+    "isHuman": true,
+    "releaseDate": "2015-05-29",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_0.jpg",
+    "role": "assassin",
+    "abilities": ["Timewinder", "Parallel Convergence", "Phase Dive", "Chronobreak"],
+    "factionId": 105
+  },
+  {
+    "id": 6,
+    "name": "Jinx",
+    "description": "Jinx, de losgeslagen Zaunite, brengt chaos met haar explosieve wapens.",
+    "powerLevel": 83,
+    "isHuman": true,
+    "releaseDate": "2013-10-10",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_0.jpg",
+    "role": "marksman",
+    "abilities": ["Switcheroo!", "Zap!", "Flame Chompers!", "Super Mega Death Rocket!"],
+    "factionId": 105
+  },
+  {
+    "id": 7,
+    "name": "Katarina",
+    "description": "Katarina is een dodelijke Noxus-assassin die razendsnel vijanden uitschakelt.",
+    "powerLevel": 90,
+    "isHuman": true,
+    "releaseDate": "2009-09-19",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_0.jpg",
+    "role": "assassin",
+    "abilities": ["Bouncing Blade", "Preparation", "Shunpo", "Death Lotus"],
+    "factionId": 103
+  },
+  {
+    "id": 8,
+    "name": "Thresh",
+    "description": "Thresh is een sinistere geest die zielen vangt in zijn lantaarn.",
+    "powerLevel": 87,
+    "isHuman": false,
+    "releaseDate": "2013-01-23",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_0.jpg",
+    "role": "support",
+    "abilities": ["Death Sentence", "Dark Passage", "Flay", "The Box"],
+    "factionId": 106
+  },
+  {
+    "id": 9,
+    "name": "Yasuo",
+    "description": "Yasuo, de Ionische zwaardvechter, gebruikt windkracht om zijn vijanden te verpletteren.",
+    "powerLevel": 89,
+    "isHuman": true,
+    "releaseDate": "2013-12-13",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_0.jpg",
+    "role": "fighter",
+    "abilities": ["Steel Tempest", "Wind Wall", "Sweeping Blade", "Last Breath"],
+    "factionId": 101
+  },
+  {
+    "id": 10,
+    "name": "Lucian",
+    "description": "Lucian is een Sentinel of Light die de doden bevecht met zijn tweelingpistolen.",
+    "powerLevel": 82,
+    "isHuman": true,
+    "releaseDate": "2013-08-22",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_0.jpg",
+    "role": "marksman",
+    "abilities": ["Piercing Light", "Ardent Blaze", "Relentless Pursuit", "The Culling"],
+    "factionId": 106
+  }
+]

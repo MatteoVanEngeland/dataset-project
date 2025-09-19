@@ -1,0 +1,82 @@
+[
+  {
+    "factionId": 101,
+    "name": "Ionia",
+    "region": "Oosterse archipel",
+    "influence": 85,
+    "isMagical": true,
+    "flagUrl": "https://placehold.co/100x100/ionia"
+  },
+  {
+    "factionId": 102,
+    "name": "Demacia",
+    "region": "Noordelijke valleien",
+    "influence": 90,
+    "isMagical": false,
+    "flagUrl": "https://placehold.co/100x100/demacia"
+  },
+  {
+    "factionId": 103,
+    "name": "Noxus",
+    "region": "Oostelijke vlaktes",
+    "influence": 95,
+    "isMagical": false,
+    "flagUrl": "https://placehold.co/100x100/noxus"
+  },
+  {
+    "factionId": 104,
+    "name": "Freljord",
+    "region": "Ijzige noordelijke gebieden",
+    "influence": 78,
+    "isMagical": true,
+    "flagUrl": "https://placehold.co/100x100/freljord"
+  },
+  {
+    "factionId": 105,
+    "name": "Zaun",
+    "region": "Ondergrondse stad",
+    "influence": 70,
+    "isMagical": true,
+    "flagUrl": "https://placehold.co/100x100/zaun"
+  },
+  {
+    "factionId": 106,
+    "name": "Shadow Isles",
+    "region": "Spookachtige eilanden",
+    "influence": 88,
+    "isMagical": true,
+    "flagUrl": "https://placehold.co/100x100/shadow"
+  },
+  {
+    "factionId": 107,
+    "name": "Piltover",
+    "region": "Bovengrondse technologische stad",
+    "influence": 82,
+    "isMagical": false,
+    "flagUrl": "https://placehold.co/100x100/piltover"
+  },
+  {
+    "factionId": 108,
+    "name": "Shurima",
+    "region": "Uitgestrekte woestijnen",
+    "influence": 91,
+    "isMagical": true,
+    "flagUrl": "https://placehold.co/100x100/shurima"
+  },
+  {
+    "factionId": 109,
+    "name": "Targon",
+    "region": "Bergachtige regio met sterrenkracht",
+    "influence": 86,
+    "isMagical": true,
+    "flagUrl": "https://placehold.co/100x100/targon"
+  },
+  {
+    "factionId": 110,
+    "name": "Bilgewater",
+    "region": "Havenstad vol piraten en handelaren",
+    "influence": 75,
+    "isMagical": false,
+    "flagUrl": "https://placehold.co/100x100/bilgewater"
+  }
+]
