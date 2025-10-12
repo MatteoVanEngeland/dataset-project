@@ -6,7 +6,7 @@
     "powerLevel": 88,
     "isHuman": false,
     "releaseDate": "2011-12-14",
-    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_0.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MatteoVanEngeland/dataset-project/refs/heads/main/images/Ahri_OriginalSkin.jpg",
     "role": "mage",
     "abilities": ["Orb of Deception", "Fox-Fire", "Charm", "Spirit Rush"],
     "factionId": 101
@@ -18,7 +18,7 @@
     "powerLevel": 76,
     "isHuman": true,
     "releaseDate": "2010-04-27",
-    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_0.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MatteoVanEngeland/dataset-project/refs/heads/main/images/Garen_God-KingSkin.jpg",
     "role": "fighter",
     "abilities": ["Decisive Strike", "Courage", "Judgment", "Demacian Justice"],
     "factionId": 102
@@ -30,7 +30,7 @@
     "powerLevel": 92,
     "isHuman": true,
     "releaseDate": "2012-05-23",
-    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_0.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MatteoVanEngeland/dataset-project/refs/heads/main/images/Darius_God-KingSkin.jpg",
     "role": "fighter",
     "abilities": ["Decimate", "Crippling Strike", "Apprehend", "Noxian Guillotine"],
     "factionId": 103
@@ -42,7 +42,7 @@
     "powerLevel": 80,
     "isHuman": true,
     "releaseDate": "2009-02-21",
-    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_0.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MatteoVanEngeland/dataset-project/refs/heads/main/images/Ashe_OriginalSkin.jpg",
     "role": "marksman",
     "abilities": ["Ranger's Focus", "Volley", "Hawkshot", "Enchanted Crystal Arrow"],
     "factionId": 104
@@ -54,7 +54,7 @@
     "powerLevel": 85,
     "isHuman": true,
     "releaseDate": "2015-05-29",
-    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_0.jpg",
+    "imageUrl": "https://github.com/MatteoVanEngeland/dataset-project/blob/main/images/Ekko_ArcaneFirelightSkin.jpg",
     "role": "assassin",
     "abilities": ["Timewinder", "Parallel Convergence", "Phase Dive", "Chronobreak"],
     "factionId": 105
@@ -66,7 +66,7 @@
     "powerLevel": 83,
     "isHuman": true,
     "releaseDate": "2013-10-10",
-    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_0.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MatteoVanEngeland/dataset-project/refs/heads/main/images/Jinx_ArcaneFracturedSkin.jpg",
     "role": "marksman",
     "abilities": ["Switcheroo!", "Zap!", "Flame Chompers!", "Super Mega Death Rocket!"],
     "factionId": 105
@@ -78,7 +78,7 @@
     "powerLevel": 90,
     "isHuman": true,
     "releaseDate": "2009-09-19",
-    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_0.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MatteoVanEngeland/dataset-project/refs/heads/main/images/Katarina_PrestigeMasqueoftheBlackRoseSkin.jpg",
     "role": "assassin",
     "abilities": ["Bouncing Blade", "Preparation", "Shunpo", "Death Lotus"],
     "factionId": 103
@@ -90,7 +90,7 @@
     "powerLevel": 87,
     "isHuman": false,
     "releaseDate": "2013-01-23",
-    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_0.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MatteoVanEngeland/dataset-project/refs/heads/main/images/Thresh_OriginalSkin.jpg",
     "role": "support",
     "abilities": ["Death Sentence", "Dark Passage", "Flay", "The Box"],
     "factionId": 106
@@ -102,7 +102,7 @@
     "powerLevel": 89,
     "isHuman": true,
     "releaseDate": "2013-12-13",
-    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_0.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MatteoVanEngeland/dataset-project/refs/heads/main/images/Yasuo_NightbringerSkin.jpg",
     "role": "fighter",
     "abilities": ["Steel Tempest", "Wind Wall", "Sweeping Blade", "Last Breath"],
     "factionId": 101
@@ -114,9 +114,10 @@
     "powerLevel": 82,
     "isHuman": true,
     "releaseDate": "2013-08-22",
-    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_0.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MatteoVanEngeland/dataset-project/refs/heads/main/images/Lucian_OriginalSkin.jpg",
     "role": "marksman",
     "abilities": ["Piercing Light", "Ardent Blaze", "Relentless Pursuit", "The Culling"],
     "factionId": 106
   }
 ]
+
