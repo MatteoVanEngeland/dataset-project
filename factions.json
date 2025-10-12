@@ -5,7 +5,7 @@
     "region": "Oosterse archipel",
     "influence": 85,
     "isMagical": true,
-    "flagUrl": "https://placehold.co/100x100/ionia"
+    "flagUrl": "https://raw.githubusercontent.com/MatteoVanEngeland/dataset-project/refs/heads/main/images/Ionia_Crest.png"
   },
   {
     "factionId": 102,
@@ -13,7 +13,7 @@
     "region": "Noordelijke valleien",
     "influence": 90,
     "isMagical": false,
-    "flagUrl": "https://placehold.co/100x100/demacia"
+    "flagUrl": "https://raw.githubusercontent.com/MatteoVanEngeland/dataset-project/refs/heads/main/images/Demacia_Crest.png"
   },
   {
     "factionId": 103,
@@ -21,7 +21,7 @@
     "region": "Oostelijke vlaktes",
     "influence": 95,
     "isMagical": false,
-    "flagUrl": "https://placehold.co/100x100/noxus"
+    "flagUrl": "https://raw.githubusercontent.com/MatteoVanEngeland/dataset-project/refs/heads/main/images/Noxus_Crest.png"
   },
   {
     "factionId": 104,
@@ -29,7 +29,7 @@
     "region": "Ijzige noordelijke gebieden",
     "influence": 78,
     "isMagical": true,
-    "flagUrl": "https://placehold.co/100x100/freljord"
+    "flagUrl": "https://raw.githubusercontent.com/MatteoVanEngeland/dataset-project/refs/heads/main/images/Freljord_Crest.png"
   },
   {
     "factionId": 105,
@@ -37,7 +37,7 @@
     "region": "Ondergrondse stad",
     "influence": 70,
     "isMagical": true,
-    "flagUrl": "https://placehold.co/100x100/zaun"
+    "flagUrl": "https://raw.githubusercontent.com/MatteoVanEngeland/dataset-project/refs/heads/main/images/Zaun_Crest.png"
   },
   {
     "factionId": 106,
@@ -45,7 +45,7 @@
     "region": "Spookachtige eilanden",
     "influence": 88,
     "isMagical": true,
-    "flagUrl": "https://placehold.co/100x100/shadow"
+    "flagUrl": "https://raw.githubusercontent.com/MatteoVanEngeland/dataset-project/refs/heads/main/images/Shadow_Isles_Crest.png"
   },
   {
     "factionId": 107,
@@ -53,7 +53,7 @@
     "region": "Bovengrondse technologische stad",
     "influence": 82,
     "isMagical": false,
-    "flagUrl": "https://placehold.co/100x100/piltover"
+    "flagUrl": "https://raw.githubusercontent.com/MatteoVanEngeland/dataset-project/refs/heads/main/images/Piltover_Crest.png"
   },
   {
     "factionId": 108,
@@ -61,7 +61,7 @@
     "region": "Uitgestrekte woestijnen",
     "influence": 91,
     "isMagical": true,
-    "flagUrl": "https://placehold.co/100x100/shurima"
+    "flagUrl": "https://raw.githubusercontent.com/MatteoVanEngeland/dataset-project/refs/heads/main/images/Shuriman_Crest.png"
   },
   {
     "factionId": 109,
@@ -69,7 +69,7 @@
     "region": "Bergachtige regio met sterrenkracht",
     "influence": 86,
     "isMagical": true,
-    "flagUrl": "https://placehold.co/100x100/targon"
+    "flagUrl": "https://raw.githubusercontent.com/MatteoVanEngeland/dataset-project/refs/heads/main/images/Targon_Crest.pngn"
   },
   {
     "factionId": 110,
@@ -77,6 +77,7 @@
     "region": "Havenstad vol piraten en handelaren",
     "influence": 75,
     "isMagical": false,
-    "flagUrl": "https://placehold.co/100x100/bilgewater"
+    "flagUrl": "https://raw.githubusercontent.com/MatteoVanEngeland/dataset-project/refs/heads/main/images/Bilgewater_Crest.png"
   }
 ]
+
