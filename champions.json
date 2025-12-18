@@ -54,7 +54,7 @@
     "powerLevel": 85,
     "isHuman": true,
     "releaseDate": "2015-05-29",
-    "imageUrl": "https://github.com/MatteoVanEngeland/dataset-project/blob/main/images/Ekko_ArcaneFirelightSkin.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MatteoVanEngeland/dataset-project/refs/heads/main/images/Ekko_ArcaneFirelightSkin.jpg",
     "role": "assassin",
     "abilities": ["Timewinder", "Parallel Convergence", "Phase Dive", "Chronobreak"],
     "factionId": 105
@@ -120,4 +120,5 @@
     "factionId": 106
   }
 ]
+
 
